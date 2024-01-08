@@ -1,5 +1,3 @@
-# python
-
 #1. Create a greeting for your program.
 
 #2. Ask the user for the city that they grew up in.
@@ -10,10 +8,4 @@
 
 #5. Make sure the input cursor shows on a new line:
 
-print("Welcome to the Band Name Generator!")
-
-city = input("What's the name of the city you grew up in?\n ")
-
-pet = input("What's your pet's name?\n")
-
-print("Your band name could be " + city + " " + pet)
+# Solution: https://replit.com/@appbrewery/band-name-generator-end

@@ -42,3 +42,4 @@ x$d24g*f9
 ```
 And every time you generate a password, the positions of the symbols, numbers, and letters are different. 
 
+https://github.com/brkdrk/python/blob/main/P06-Password-Generator/main.py
